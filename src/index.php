@@ -7,8 +7,8 @@
     $cliente = new Cliente();
     //$cliente->setNome("nome Daniel");
     //$cliente->newCliente($pdo);
-    $cliente->setId(3);
-    $cliente->setNome("maria");
-    $cliente->updateCliente($pdo);
-    //$cliente->readClientes($pdo);
+    //$cliente->setId(3);
+    //$cliente->setNome("maria");
+    //$cliente->updateCliente($pdo);
+    $cliente->readClientes($pdo);
 ?>
