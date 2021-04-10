@@ -22,7 +22,7 @@
             $this->id = $id;
         }
 
-        //Funços //
+        // Métodos Normais //
         public function newCliente($pdo){
             $sql = "INSERT INTO cliente(nome) VALUES (:nome)";
             $insert = $pdo->prepare($sql);
