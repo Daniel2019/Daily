@@ -11,11 +11,11 @@
 
         }
 
-        function updategenda(){
+        function updateAgenda(){
             
         }
 
-        function deletegenda(){
+        function deleteAgenda(){
             
         }
 

@@ -14,8 +14,8 @@
 
     $imagem = new Imagem();
 
-    $imagem->setlocal("img/src2");
-    $imagem->setIdcliente(1);
-    $imagem->setIddono(2);
-    $imagem->newImagem($pdo);
+    //$imagem->setlocal("img/src2");
+    //$imagem->setIdcliente(1);
+    //$imagem->setIddono(2);
+    //$imagem->newImagem($pdo);
 ?>
